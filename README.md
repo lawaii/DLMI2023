@@ -17,7 +17,3 @@ You can check the demo videos and presented posters below to get more informatio
 Original Dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
 
 Demo video: https://drive.google.com/file/d/1hbvfbNQn9AgBkf8yLKKv85k02l_NQdPU/view?usp=drive_link
-
-Poster: https://drive.google.com/file/d/1s_x335WM3GUB0UDavLuha3PzEHtJbTEY/view?usp=drive_link
-
-Report: https://drive.google.com/file/d/1z2VxYfyzYacwaPUKHF7AuTerF0rf3buZ/view?usp=drive_link
